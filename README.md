@@ -1,4 +1,6 @@
-# Python Plugin Example
+# Python Plugin Example 🔌
+
+A sample setup for dynamically importing scripts in a plugin architecture from a compiled exe (from pyinstaller)
 
 ## Setup
 
